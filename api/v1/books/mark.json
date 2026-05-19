@@ -1,0 +1,71 @@
+{
+  "book": "Mark",
+  "book_number": 41,
+  "total_chapters": 16,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_01.mp3"
+    },
+    {
+      "chapter": 2,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_02.mp3"
+    },
+    {
+      "chapter": 3,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_03.mp3"
+    },
+    {
+      "chapter": 4,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_04.mp3"
+    },
+    {
+      "chapter": 5,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_05.mp3"
+    },
+    {
+      "chapter": 6,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_06.mp3"
+    },
+    {
+      "chapter": 7,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_07.mp3"
+    },
+    {
+      "chapter": 8,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_08.mp3"
+    },
+    {
+      "chapter": 9,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_09.mp3"
+    },
+    {
+      "chapter": 10,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_10.mp3"
+    },
+    {
+      "chapter": 11,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_11.mp3"
+    },
+    {
+      "chapter": 12,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_12.mp3"
+    },
+    {
+      "chapter": 13,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_13.mp3"
+    },
+    {
+      "chapter": 14,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_14.mp3"
+    },
+    {
+      "chapter": 15,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_15.mp3"
+    },
+    {
+      "chapter": 16,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/41_Mark_16.mp3"
+    }
+  ]
+}

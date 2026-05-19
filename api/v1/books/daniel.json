@@ -1,0 +1,55 @@
+{
+  "book": "Daniel",
+  "book_number": 27,
+  "total_chapters": 12,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/27_Daniell_01.mp3"
+    },
+    {
+      "chapter": 2,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/27_Daniell_02.mp3"
+    },
+    {
+      "chapter": 3,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/27_Daniell_03.mp3"
+    },
+    {
+      "chapter": 4,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/27_Daniell_04.mp3"
+    },
+    {
+      "chapter": 5,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/27_Daniell_05.mp3"
+    },
+    {
+      "chapter": 6,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/27_Daniell_06.mp3"
+    },
+    {
+      "chapter": 7,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/27_Daniell_07.mp3"
+    },
+    {
+      "chapter": 8,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/27_Daniell_08.mp3"
+    },
+    {
+      "chapter": 9,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/27_Daniell_09.mp3"
+    },
+    {
+      "chapter": 10,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/27_Daniell_10.mp3"
+    },
+    {
+      "chapter": 11,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/27_Daniell_11.mp3"
+    },
+    {
+      "chapter": 12,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/27_Daniell_12.mp3"
+    }
+  ]
+}

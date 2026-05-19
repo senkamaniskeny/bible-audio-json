@@ -1,0 +1,215 @@
+{
+  "book": "Jeremiah",
+  "book_number": 24,
+  "total_chapters": 52,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_01.mp3"
+    },
+    {
+      "chapter": 2,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_02.mp3"
+    },
+    {
+      "chapter": 3,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_03.mp3"
+    },
+    {
+      "chapter": 4,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_04.mp3"
+    },
+    {
+      "chapter": 5,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_05.mp3"
+    },
+    {
+      "chapter": 6,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_06.mp3"
+    },
+    {
+      "chapter": 7,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_07.mp3"
+    },
+    {
+      "chapter": 8,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_08.mp3"
+    },
+    {
+      "chapter": 9,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_09.mp3"
+    },
+    {
+      "chapter": 10,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_10.mp3"
+    },
+    {
+      "chapter": 11,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_11.mp3"
+    },
+    {
+      "chapter": 12,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_12.mp3"
+    },
+    {
+      "chapter": 13,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_13.mp3"
+    },
+    {
+      "chapter": 14,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_14.mp3"
+    },
+    {
+      "chapter": 15,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_15.mp3"
+    },
+    {
+      "chapter": 16,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_16.mp3"
+    },
+    {
+      "chapter": 17,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_17.mp3"
+    },
+    {
+      "chapter": 18,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_18.mp3"
+    },
+    {
+      "chapter": 19,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_19.mp3"
+    },
+    {
+      "chapter": 20,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_20.mp3"
+    },
+    {
+      "chapter": 21,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_21.mp3"
+    },
+    {
+      "chapter": 22,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_22.mp3"
+    },
+    {
+      "chapter": 23,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_23.mp3"
+    },
+    {
+      "chapter": 24,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_24.mp3"
+    },
+    {
+      "chapter": 25,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_25.mp3"
+    },
+    {
+      "chapter": 26,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_26.mp3"
+    },
+    {
+      "chapter": 27,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_27.mp3"
+    },
+    {
+      "chapter": 28,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_28.mp3"
+    },
+    {
+      "chapter": 29,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_29.mp3"
+    },
+    {
+      "chapter": 30,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_30.mp3"
+    },
+    {
+      "chapter": 31,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_31.mp3"
+    },
+    {
+      "chapter": 32,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_32.mp3"
+    },
+    {
+      "chapter": 33,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_33.mp3"
+    },
+    {
+      "chapter": 34,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_34.mp3"
+    },
+    {
+      "chapter": 35,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_35.mp3"
+    },
+    {
+      "chapter": 36,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_36.mp3"
+    },
+    {
+      "chapter": 37,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_37.mp3"
+    },
+    {
+      "chapter": 38,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_38.mp3"
+    },
+    {
+      "chapter": 39,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_39.mp3"
+    },
+    {
+      "chapter": 40,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_40.mp3"
+    },
+    {
+      "chapter": 41,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_41.mp3"
+    },
+    {
+      "chapter": 42,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_42.mp3"
+    },
+    {
+      "chapter": 43,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_43.mp3"
+    },
+    {
+      "chapter": 44,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_44.mp3"
+    },
+    {
+      "chapter": 45,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_45.mp3"
+    },
+    {
+      "chapter": 46,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_46.mp3"
+    },
+    {
+      "chapter": 47,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_47.mp3"
+    },
+    {
+      "chapter": 48,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_48.mp3"
+    },
+    {
+      "chapter": 49,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_49.mp3"
+    },
+    {
+      "chapter": 50,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_50.mp3"
+    },
+    {
+      "chapter": 51,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_51.mp3"
+    },
+    {
+      "chapter": 52,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_52.mp3"
+    }
+  ]
+}

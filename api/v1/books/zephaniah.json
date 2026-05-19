@@ -1,0 +1,19 @@
+{
+  "book": "Zephaniah",
+  "book_number": 36,
+  "total_chapters": 3,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/36_Zephaniah_01.mp3"
+    },
+    {
+      "chapter": 2,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/36_Zephaniah_02.mp3"
+    },
+    {
+      "chapter": 3,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/36_Zephaniah_03.mp3"
+    }
+  ]
+}

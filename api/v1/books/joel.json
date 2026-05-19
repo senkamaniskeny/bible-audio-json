@@ -1,0 +1,19 @@
+{
+  "book": "Joel",
+  "book_number": 29,
+  "total_chapters": 3,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/29_Joel_01.mp3"
+    },
+    {
+      "chapter": 2,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/29_Joel_02.mp3"
+    },
+    {
+      "chapter": 3,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/29_Joel_03.mp3"
+    }
+  ]
+}

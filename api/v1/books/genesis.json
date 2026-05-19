@@ -1,0 +1,207 @@
+{
+  "book": "Genesis",
+  "book_number": 1,
+  "total_chapters": 50,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_01.mp3"
+    },
+    {
+      "chapter": 2,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_02.mp3"
+    },
+    {
+      "chapter": 3,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_03.mp3"
+    },
+    {
+      "chapter": 4,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_04.mp3"
+    },
+    {
+      "chapter": 5,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_05.mp3"
+    },
+    {
+      "chapter": 6,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_06.mp3"
+    },
+    {
+      "chapter": 7,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_07.mp3"
+    },
+    {
+      "chapter": 8,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_08.mp3"
+    },
+    {
+      "chapter": 9,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_09.mp3"
+    },
+    {
+      "chapter": 10,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_10.mp3"
+    },
+    {
+      "chapter": 11,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_11.mp3"
+    },
+    {
+      "chapter": 12,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_12.mp3"
+    },
+    {
+      "chapter": 13,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_13.mp3"
+    },
+    {
+      "chapter": 14,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_14.mp3"
+    },
+    {
+      "chapter": 15,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_15.mp3"
+    },
+    {
+      "chapter": 16,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_16.mp3"
+    },
+    {
+      "chapter": 17,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_17.mp3"
+    },
+    {
+      "chapter": 18,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_18.mp3"
+    },
+    {
+      "chapter": 19,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_19.mp3"
+    },
+    {
+      "chapter": 20,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_20.mp3"
+    },
+    {
+      "chapter": 21,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_21.mp3"
+    },
+    {
+      "chapter": 22,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_22.mp3"
+    },
+    {
+      "chapter": 23,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_23.mp3"
+    },
+    {
+      "chapter": 24,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_24.mp3"
+    },
+    {
+      "chapter": 25,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_25.mp3"
+    },
+    {
+      "chapter": 26,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_26.mp3"
+    },
+    {
+      "chapter": 27,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_27.mp3"
+    },
+    {
+      "chapter": 28,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_28.mp3"
+    },
+    {
+      "chapter": 29,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_29.mp3"
+    },
+    {
+      "chapter": 30,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_30.mp3"
+    },
+    {
+      "chapter": 31,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_31.mp3"
+    },
+    {
+      "chapter": 32,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_32.mp3"
+    },
+    {
+      "chapter": 33,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_33.mp3"
+    },
+    {
+      "chapter": 34,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_34.mp3"
+    },
+    {
+      "chapter": 35,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_35.mp3"
+    },
+    {
+      "chapter": 36,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_36.mp3"
+    },
+    {
+      "chapter": 37,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_37.mp3"
+    },
+    {
+      "chapter": 38,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_38.mp3"
+    },
+    {
+      "chapter": 39,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_39.mp3"
+    },
+    {
+      "chapter": 40,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_40.mp3"
+    },
+    {
+      "chapter": 41,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_41.mp3"
+    },
+    {
+      "chapter": 42,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_42.mp3"
+    },
+    {
+      "chapter": 43,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_43.mp3"
+    },
+    {
+      "chapter": 44,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_44.mp3"
+    },
+    {
+      "chapter": 45,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_45.mp3"
+    },
+    {
+      "chapter": 46,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_46.mp3"
+    },
+    {
+      "chapter": 47,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_47.mp3"
+    },
+    {
+      "chapter": 48,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_48.mp3"
+    },
+    {
+      "chapter": 49,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_49.mp3"
+    },
+    {
+      "chapter": 50,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_50.mp3"
+    }
+  ]
+}

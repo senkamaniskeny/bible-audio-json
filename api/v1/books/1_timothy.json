@@ -1,0 +1,31 @@
+{
+  "book": "1 Timothy",
+  "book_number": 54,
+  "total_chapters": 6,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/54_1Timothy_01.mp3"
+    },
+    {
+      "chapter": 2,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/54_1Timothy_02.mp3"
+    },
+    {
+      "chapter": 3,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/54_1Timothy_03.mp3"
+    },
+    {
+      "chapter": 4,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/54_1Timothy_04.mp3"
+    },
+    {
+      "chapter": 5,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/54_1Timothy_05.mp3"
+    },
+    {
+      "chapter": 6,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/54_1Timothy_06.mp3"
+    }
+  ]
+}

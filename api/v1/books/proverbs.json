@@ -1,0 +1,131 @@
+{
+  "book": "Proverbs",
+  "book_number": 20,
+  "total_chapters": 31,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_01.mp3"
+    },
+    {
+      "chapter": 2,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_02.mp3"
+    },
+    {
+      "chapter": 3,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_03.mp3"
+    },
+    {
+      "chapter": 4,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_04.mp3"
+    },
+    {
+      "chapter": 5,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_05.mp3"
+    },
+    {
+      "chapter": 6,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_06.mp3"
+    },
+    {
+      "chapter": 7,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_07.mp3"
+    },
+    {
+      "chapter": 8,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_08.mp3"
+    },
+    {
+      "chapter": 9,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_09.mp3"
+    },
+    {
+      "chapter": 10,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_10.mp3"
+    },
+    {
+      "chapter": 11,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_11.mp3"
+    },
+    {
+      "chapter": 12,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_12.mp3"
+    },
+    {
+      "chapter": 13,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_13.mp3"
+    },
+    {
+      "chapter": 14,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_14.mp3"
+    },
+    {
+      "chapter": 15,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_15.mp3"
+    },
+    {
+      "chapter": 16,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_16.mp3"
+    },
+    {
+      "chapter": 17,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_17.mp3"
+    },
+    {
+      "chapter": 18,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_18.mp3"
+    },
+    {
+      "chapter": 19,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_19.mp3"
+    },
+    {
+      "chapter": 20,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_20.mp3"
+    },
+    {
+      "chapter": 21,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_21.mp3"
+    },
+    {
+      "chapter": 22,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_22.mp3"
+    },
+    {
+      "chapter": 23,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_23.mp3"
+    },
+    {
+      "chapter": 24,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_24.mp3"
+    },
+    {
+      "chapter": 25,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_25.mp3"
+    },
+    {
+      "chapter": 26,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_26.mp3"
+    },
+    {
+      "chapter": 27,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_27.mp3"
+    },
+    {
+      "chapter": 28,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_28.mp3"
+    },
+    {
+      "chapter": 29,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_29.mp3"
+    },
+    {
+      "chapter": 30,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_30.mp3"
+    },
+    {
+      "chapter": 31,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Prov_31.mp3"
+    }
+  ]
+}

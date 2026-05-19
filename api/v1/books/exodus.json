@@ -1,0 +1,167 @@
+{
+  "book": "Exodus",
+  "book_number": 2,
+  "total_chapters": 40,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_01.mp3"
+    },
+    {
+      "chapter": 2,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_02.mp3"
+    },
+    {
+      "chapter": 3,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_03.mp3"
+    },
+    {
+      "chapter": 4,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_04.mp3"
+    },
+    {
+      "chapter": 5,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_05.mp3"
+    },
+    {
+      "chapter": 6,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_06.mp3"
+    },
+    {
+      "chapter": 7,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_07.mp3"
+    },
+    {
+      "chapter": 8,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_08.mp3"
+    },
+    {
+      "chapter": 9,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_09.mp3"
+    },
+    {
+      "chapter": 10,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_10.mp3"
+    },
+    {
+      "chapter": 11,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_11.mp3"
+    },
+    {
+      "chapter": 12,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_12.mp3"
+    },
+    {
+      "chapter": 13,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_13.mp3"
+    },
+    {
+      "chapter": 14,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_14.mp3"
+    },
+    {
+      "chapter": 15,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_15.mp3"
+    },
+    {
+      "chapter": 16,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_16.mp3"
+    },
+    {
+      "chapter": 17,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_17.mp3"
+    },
+    {
+      "chapter": 18,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_18.mp3"
+    },
+    {
+      "chapter": 19,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_19.mp3"
+    },
+    {
+      "chapter": 20,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_20.mp3"
+    },
+    {
+      "chapter": 21,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_21.mp3"
+    },
+    {
+      "chapter": 22,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_22.mp3"
+    },
+    {
+      "chapter": 23,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_23.mp3"
+    },
+    {
+      "chapter": 24,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_24.mp3"
+    },
+    {
+      "chapter": 25,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_25.mp3"
+    },
+    {
+      "chapter": 26,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_26.mp3"
+    },
+    {
+      "chapter": 27,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_27.mp3"
+    },
+    {
+      "chapter": 28,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_28.mp3"
+    },
+    {
+      "chapter": 29,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_29.mp3"
+    },
+    {
+      "chapter": 30,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_30.mp3"
+    },
+    {
+      "chapter": 31,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_31.mp3"
+    },
+    {
+      "chapter": 32,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_32.mp3"
+    },
+    {
+      "chapter": 33,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_33.mp3"
+    },
+    {
+      "chapter": 34,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_34.mp3"
+    },
+    {
+      "chapter": 35,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_35.mp3"
+    },
+    {
+      "chapter": 36,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_36.mp3"
+    },
+    {
+      "chapter": 37,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_37.mp3"
+    },
+    {
+      "chapter": 38,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_38.mp3"
+    },
+    {
+      "chapter": 39,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_39.mp3"
+    },
+    {
+      "chapter": 40,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_40.mp3"
+    }
+  ]
+}

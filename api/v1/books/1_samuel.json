@@ -1,0 +1,131 @@
+{
+  "book": "1 Samuel",
+  "book_number": 9,
+  "total_chapters": 31,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_01.mp3"
+    },
+    {
+      "chapter": 2,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_02.mp3"
+    },
+    {
+      "chapter": 3,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_03.mp3"
+    },
+    {
+      "chapter": 4,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_04.mp3"
+    },
+    {
+      "chapter": 5,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_05.mp3"
+    },
+    {
+      "chapter": 6,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_06.mp3"
+    },
+    {
+      "chapter": 7,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_07.mp3"
+    },
+    {
+      "chapter": 8,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_08.mp3"
+    },
+    {
+      "chapter": 9,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_09.mp3"
+    },
+    {
+      "chapter": 10,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_10.mp3"
+    },
+    {
+      "chapter": 11,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_11.mp3"
+    },
+    {
+      "chapter": 12,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_12.mp3"
+    },
+    {
+      "chapter": 13,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_13.mp3"
+    },
+    {
+      "chapter": 14,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_14.mp3"
+    },
+    {
+      "chapter": 15,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_15.mp3"
+    },
+    {
+      "chapter": 16,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_16.mp3"
+    },
+    {
+      "chapter": 17,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_17.mp3"
+    },
+    {
+      "chapter": 18,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_18.mp3"
+    },
+    {
+      "chapter": 19,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_19.mp3"
+    },
+    {
+      "chapter": 20,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_20.mp3"
+    },
+    {
+      "chapter": 21,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_21.mp3"
+    },
+    {
+      "chapter": 22,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_22.mp3"
+    },
+    {
+      "chapter": 23,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_23.mp3"
+    },
+    {
+      "chapter": 24,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_24.mp3"
+    },
+    {
+      "chapter": 25,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_25.mp3"
+    },
+    {
+      "chapter": 26,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_26.mp3"
+    },
+    {
+      "chapter": 27,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_27.mp3"
+    },
+    {
+      "chapter": 28,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_28.mp3"
+    },
+    {
+      "chapter": 29,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_29.mp3"
+    },
+    {
+      "chapter": 30,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_30.mp3"
+    },
+    {
+      "chapter": 31,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1Samuel_31.mp3"
+    }
+  ]
+}

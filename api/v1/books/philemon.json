@@ -1,0 +1,11 @@
+{
+  "book": "Philemon",
+  "book_number": 57,
+  "total_chapters": 1,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/57_Philemon_01.mp3"
+    }
+  ]
+}

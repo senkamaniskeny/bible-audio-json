@@ -1,0 +1,15 @@
+{
+  "book": "Haggai",
+  "book_number": 37,
+  "total_chapters": 2,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/37_Haggai_01.mp3"
+    },
+    {
+      "chapter": 2,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/37_Haggai_02.mp3"
+    }
+  ]
+}

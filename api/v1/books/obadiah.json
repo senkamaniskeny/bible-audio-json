@@ -1,0 +1,11 @@
+{
+  "book": "Obadiah",
+  "book_number": 31,
+  "total_chapters": 1,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/31_Obadiah_01.mp3"
+    }
+  ]
+}

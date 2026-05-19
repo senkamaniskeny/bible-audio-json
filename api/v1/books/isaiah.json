@@ -1,0 +1,271 @@
+{
+  "book": "Isaiah",
+  "book_number": 23,
+  "total_chapters": 66,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_01.mp3"
+    },
+    {
+      "chapter": 2,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_02.mp3"
+    },
+    {
+      "chapter": 3,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_03.mp3"
+    },
+    {
+      "chapter": 4,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_04.mp3"
+    },
+    {
+      "chapter": 5,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_05.mp3"
+    },
+    {
+      "chapter": 6,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_06.mp3"
+    },
+    {
+      "chapter": 7,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_07.mp3"
+    },
+    {
+      "chapter": 8,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_08.mp3"
+    },
+    {
+      "chapter": 9,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_09.mp3"
+    },
+    {
+      "chapter": 10,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_10.mp3"
+    },
+    {
+      "chapter": 11,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_11.mp3"
+    },
+    {
+      "chapter": 12,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_12.mp3"
+    },
+    {
+      "chapter": 13,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_13.mp3"
+    },
+    {
+      "chapter": 14,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_14.mp3"
+    },
+    {
+      "chapter": 15,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_15.mp3"
+    },
+    {
+      "chapter": 16,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_16.mp3"
+    },
+    {
+      "chapter": 17,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_17.mp3"
+    },
+    {
+      "chapter": 18,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_18.mp3"
+    },
+    {
+      "chapter": 19,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_19.mp3"
+    },
+    {
+      "chapter": 20,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_20.mp3"
+    },
+    {
+      "chapter": 21,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_21.mp3"
+    },
+    {
+      "chapter": 22,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_22.mp3"
+    },
+    {
+      "chapter": 23,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_23.mp3"
+    },
+    {
+      "chapter": 24,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_24.mp3"
+    },
+    {
+      "chapter": 25,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_25.mp3"
+    },
+    {
+      "chapter": 26,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_26.mp3"
+    },
+    {
+      "chapter": 27,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_27.mp3"
+    },
+    {
+      "chapter": 28,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_28.mp3"
+    },
+    {
+      "chapter": 29,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_29.mp3"
+    },
+    {
+      "chapter": 30,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_30.mp3"
+    },
+    {
+      "chapter": 31,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_31.mp3"
+    },
+    {
+      "chapter": 32,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_32.mp3"
+    },
+    {
+      "chapter": 33,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_33.mp3"
+    },
+    {
+      "chapter": 34,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_34.mp3"
+    },
+    {
+      "chapter": 35,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_35.mp3"
+    },
+    {
+      "chapter": 36,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_36.mp3"
+    },
+    {
+      "chapter": 37,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_37.mp3"
+    },
+    {
+      "chapter": 38,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_38.mp3"
+    },
+    {
+      "chapter": 39,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_39.mp3"
+    },
+    {
+      "chapter": 40,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_40.mp3"
+    },
+    {
+      "chapter": 41,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_41.mp3"
+    },
+    {
+      "chapter": 42,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_42.mp3"
+    },
+    {
+      "chapter": 43,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_43.mp3"
+    },
+    {
+      "chapter": 44,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_44.mp3"
+    },
+    {
+      "chapter": 45,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_45.mp3"
+    },
+    {
+      "chapter": 46,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_46.mp3"
+    },
+    {
+      "chapter": 47,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_47.mp3"
+    },
+    {
+      "chapter": 48,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_48.mp3"
+    },
+    {
+      "chapter": 49,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_49.mp3"
+    },
+    {
+      "chapter": 50,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_50.mp3"
+    },
+    {
+      "chapter": 51,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_51.mp3"
+    },
+    {
+      "chapter": 52,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_52.mp3"
+    },
+    {
+      "chapter": 53,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_53.mp3"
+    },
+    {
+      "chapter": 54,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_54.mp3"
+    },
+    {
+      "chapter": 55,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_55.mp3"
+    },
+    {
+      "chapter": 56,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_56.mp3"
+    },
+    {
+      "chapter": 57,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_57.mp3"
+    },
+    {
+      "chapter": 58,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_58.mp3"
+    },
+    {
+      "chapter": 59,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_59.mp3"
+    },
+    {
+      "chapter": 60,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_60.mp3"
+    },
+    {
+      "chapter": 61,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_61.mp3"
+    },
+    {
+      "chapter": 62,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_62.mp3"
+    },
+    {
+      "chapter": 63,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_63.mp3"
+    },
+    {
+      "chapter": 64,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_64.mp3"
+    },
+    {
+      "chapter": 65,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_65.mp3"
+    },
+    {
+      "chapter": 66,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_66.mp3"
+    }
+  ]
+}

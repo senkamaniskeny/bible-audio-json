@@ -1,0 +1,11 @@
+{
+  "book": "Jude",
+  "book_number": 65,
+  "total_chapters": 1,
+  "chapters": [
+    {
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/nt/65_Jude_01.mp3"
+    }
+  ]
+}
