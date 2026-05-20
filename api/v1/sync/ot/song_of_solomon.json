@@ -1,0 +1,63 @@
+{
+  "book": "Song of Solomon",
+  "book_number": 22,
+  "total_chapters": 8,
+  "chapters": [
+    {
+      "book": "Song of Solomon",
+      "chapter": 1,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/22_Song_of_Soloman_01.mp3",
+      "verses": [],
+      "verse_count": 0
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/22_Song_of_Soloman_02.mp3",
+      "verses": [],
+      "verse_count": 0
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 3,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/22_Song_of_Soloman_03.mp3",
+      "verses": [],
+      "verse_count": 0
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 4,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/22_Song_of_Soloman_04.mp3",
+      "verses": [],
+      "verse_count": 0
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 5,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/22_Song_of_Soloman_05.mp3",
+      "verses": [],
+      "verse_count": 0
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 6,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/22_Song_of_Soloman_06.mp3",
+      "verses": [],
+      "verse_count": 0
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 7,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/22_Song_of_Soloman_07.mp3",
+      "verses": [],
+      "verse_count": 0
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "audio_url": "https://kjv-bible-audio-cdn.netlify.app/ot/22_Song_of_Soloman_08.mp3",
+      "verses": [],
+      "verse_count": 0
+    }
+  ]
+}
