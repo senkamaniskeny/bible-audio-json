@@ -1,0 +1,202 @@
+{
+  "testament": "New Testament",
+  "books_count": 27,
+  "chapters_count": 260,
+  "books": [
+    {
+      "name": "Matthew",
+      "number": 40,
+      "chapters": 28,
+      "category": "Gospels",
+      "reference_endpoint": "/api/v1/niv/reference/nt/matthew.json"
+    },
+    {
+      "name": "Mark",
+      "number": 41,
+      "chapters": 16,
+      "category": "Gospels",
+      "reference_endpoint": "/api/v1/niv/reference/nt/mark.json"
+    },
+    {
+      "name": "Luke",
+      "number": 42,
+      "chapters": 24,
+      "category": "Gospels",
+      "reference_endpoint": "/api/v1/niv/reference/nt/luke.json"
+    },
+    {
+      "name": "John",
+      "number": 43,
+      "chapters": 21,
+      "category": "Gospels",
+      "reference_endpoint": "/api/v1/niv/reference/nt/john.json"
+    },
+    {
+      "name": "Acts",
+      "number": 44,
+      "chapters": 28,
+      "category": "Acts",
+      "reference_endpoint": "/api/v1/niv/reference/nt/acts.json"
+    },
+    {
+      "name": "Romans",
+      "number": 45,
+      "chapters": 16,
+      "category": "Paul's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/romans.json"
+    },
+    {
+      "name": "1 Corinthians",
+      "number": 46,
+      "chapters": 16,
+      "category": "Paul's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/1_corinthians.json"
+    },
+    {
+      "name": "2 Corinthians",
+      "number": 47,
+      "chapters": 13,
+      "category": "Paul's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/2_corinthians.json"
+    },
+    {
+      "name": "Galatians",
+      "number": 48,
+      "chapters": 6,
+      "category": "Paul's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/galatians.json"
+    },
+    {
+      "name": "Ephesians",
+      "number": 49,
+      "chapters": 6,
+      "category": "Paul's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/ephesians.json"
+    },
+    {
+      "name": "Philippians",
+      "number": 50,
+      "chapters": 4,
+      "category": "Paul's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/philippians.json"
+    },
+    {
+      "name": "Colossians",
+      "number": 51,
+      "chapters": 4,
+      "category": "Paul's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/colossians.json"
+    },
+    {
+      "name": "1 Thessalonians",
+      "number": 52,
+      "chapters": 5,
+      "category": "Paul's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/1_thessalonians.json"
+    },
+    {
+      "name": "2 Thessalonians",
+      "number": 53,
+      "chapters": 3,
+      "category": "Paul's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/2_thessalonians.json"
+    },
+    {
+      "name": "1 Timothy",
+      "number": 54,
+      "chapters": 6,
+      "category": "Paul's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/1_timothy.json"
+    },
+    {
+      "name": "2 Timothy",
+      "number": 55,
+      "chapters": 4,
+      "category": "Paul's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/2_timothy.json"
+    },
+    {
+      "name": "Titus",
+      "number": 56,
+      "chapters": 3,
+      "category": "Paul's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/titus.json"
+    },
+    {
+      "name": "Philemon",
+      "number": 57,
+      "chapters": 1,
+      "category": "Paul's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/philemon.json"
+    },
+    {
+      "name": "Hebrews",
+      "number": 58,
+      "chapters": 13,
+      "category": "Hebrews",
+      "reference_endpoint": "/api/v1/niv/reference/nt/hebrews.json"
+    },
+    {
+      "name": "James",
+      "number": 59,
+      "chapters": 5,
+      "category": "James",
+      "reference_endpoint": "/api/v1/niv/reference/nt/james.json"
+    },
+    {
+      "name": "1 Peter",
+      "number": 60,
+      "chapters": 5,
+      "category": "Peter's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/1_peter.json"
+    },
+    {
+      "name": "2 Peter",
+      "number": 61,
+      "chapters": 3,
+      "category": "Peter's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/2_peter.json"
+    },
+    {
+      "name": "1 John",
+      "number": 62,
+      "chapters": 5,
+      "category": "John's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/1_john.json"
+    },
+    {
+      "name": "2 John",
+      "number": 63,
+      "chapters": 1,
+      "category": "John's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/2_john.json"
+    },
+    {
+      "name": "3 John",
+      "number": 64,
+      "chapters": 1,
+      "category": "John's Epistles",
+      "reference_endpoint": "/api/v1/niv/reference/nt/3_john.json"
+    },
+    {
+      "name": "Jude",
+      "number": 65,
+      "chapters": 1,
+      "category": "Jude",
+      "reference_endpoint": "/api/v1/niv/reference/nt/jude.json"
+    },
+    {
+      "name": "Revelation",
+      "number": 66,
+      "chapters": 22,
+      "category": "Revelation",
+      "reference_endpoint": "/api/v1/niv/reference/nt/revelation.json"
+    }
+  ],
+  "translation": {
+    "name": "New International Version",
+    "abbreviation": "NIV",
+    "version": "2011",
+    "copyright": "Copyright \u00a9 1973, 1978, 1984, 2011 by Biblica, Inc.\u00ae"
+  }
+}

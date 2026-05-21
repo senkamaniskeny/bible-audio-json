@@ -1,0 +1,45 @@
+{
+  "bible": {
+    "name": "Holy Bible",
+    "translation": "New International Version (NIV)",
+    "version": "2011",
+    "total_books": 66,
+    "total_chapters": 1189,
+    "copyright": "Copyright \u00a9 1973, 1978, 1984, 2011 by Biblica, Inc.\u00ae",
+    "publisher": "Biblica, Inc.",
+    "license_url": "https://www.biblica.com/"
+  },
+  "note": "This is a reference API that provides links to official NIV Bible sources. No copyrighted text is reproduced. Users should access the actual Bible text through the official sources listed below.",
+  "old_testament": {
+    "books": 39,
+    "chapters": 929,
+    "reference_endpoint": "/api/v1/niv/reference/ot.json"
+  },
+  "new_testament": {
+    "books": 27,
+    "chapters": 260,
+    "reference_endpoint": "/api/v1/niv/reference/nt.json"
+  },
+  "official_sources": {
+    "bible_gateway": {
+      "name": "Bible Gateway",
+      "url": "https://www.biblegateway.com",
+      "description": "Search and read NIV Bible online"
+    },
+    "youversion": {
+      "name": "YouVersion (Bible.com)",
+      "url": "https://www.bible.com",
+      "description": "Read NIV Bible on web or mobile app"
+    },
+    "api_bible": {
+      "name": "API.Bible",
+      "url": "https://scripture.api.bible/",
+      "description": "Access NIV through free API (requires signup)"
+    },
+    "biblica": {
+      "name": "Biblica (Copyright Holder)",
+      "url": "https://www.biblica.com/",
+      "description": "Official NIV publisher and copyright holder"
+    }
+  }
+}

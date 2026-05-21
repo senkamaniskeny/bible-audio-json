@@ -1,0 +1,43 @@
+{
+  "book": {
+    "name": "3 John",
+    "number": 64,
+    "testament": "NT",
+    "chapters": 1,
+    "category": "John's Epistles"
+  },
+  "translation": {
+    "name": "New International Version",
+    "abbreviation": "NIV",
+    "version": "2011",
+    "language": "English",
+    "copyright": "Copyright \u00a9 1973, 1978, 1984, 2011 by Biblica, Inc.\u00ae",
+    "publisher": "Biblica, Inc.",
+    "license_url": "https://www.biblica.com/",
+    "note": "This API provides reference links only. No copyrighted text is reproduced."
+  },
+  "official_sources": {
+    "bible_gateway": {
+      "name": "Bible Gateway",
+      "url": "https://www.biblegateway.com/passage/?search=3 John&version=NIV",
+      "description": "Search and read NIV Bible on Bible Gateway"
+    },
+    "youversion": {
+      "name": "YouVersion (Bible.com)",
+      "url": "https://www.bible.com/search?q=3 John&version=111",
+      "description": "Read NIV Bible on YouVersion platform",
+      "app_url": "https://www.bible.com"
+    },
+    "api_bible": {
+      "name": "API.Bible",
+      "url": "https://scripture.api.bible/",
+      "description": "Access NIV through API.Bible (requires free signup)",
+      "docs": "https://docs.api.bible/"
+    }
+  },
+  "search_instructions": {
+    "bible_gateway": "Visit https://www.biblegateway.com and search for '3 John' with NIV translation",
+    "youversion": "Visit https://www.bible.com and search for '3 John' or download the app",
+    "api_bible": "Sign up at https://api.bible/sign-up and use their API endpoints"
+  }
+}

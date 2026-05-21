@@ -1,0 +1,286 @@
+{
+  "testament": "Old Testament",
+  "books_count": 39,
+  "chapters_count": 929,
+  "books": [
+    {
+      "name": "Genesis",
+      "number": 1,
+      "chapters": 50,
+      "category": "Pentateuch",
+      "reference_endpoint": "/api/v1/niv/reference/ot/genesis.json"
+    },
+    {
+      "name": "Exodus",
+      "number": 2,
+      "chapters": 40,
+      "category": "Pentateuch",
+      "reference_endpoint": "/api/v1/niv/reference/ot/exodus.json"
+    },
+    {
+      "name": "Leviticus",
+      "number": 3,
+      "chapters": 27,
+      "category": "Pentateuch",
+      "reference_endpoint": "/api/v1/niv/reference/ot/leviticus.json"
+    },
+    {
+      "name": "Numbers",
+      "number": 4,
+      "chapters": 36,
+      "category": "Pentateuch",
+      "reference_endpoint": "/api/v1/niv/reference/ot/numbers.json"
+    },
+    {
+      "name": "Deuteronomy",
+      "number": 5,
+      "chapters": 34,
+      "category": "Pentateuch",
+      "reference_endpoint": "/api/v1/niv/reference/ot/deuteronomy.json"
+    },
+    {
+      "name": "Joshua",
+      "number": 6,
+      "chapters": 24,
+      "category": "Historical",
+      "reference_endpoint": "/api/v1/niv/reference/ot/joshua.json"
+    },
+    {
+      "name": "Judges",
+      "number": 7,
+      "chapters": 21,
+      "category": "Historical",
+      "reference_endpoint": "/api/v1/niv/reference/ot/judges.json"
+    },
+    {
+      "name": "Ruth",
+      "number": 8,
+      "chapters": 4,
+      "category": "Historical",
+      "reference_endpoint": "/api/v1/niv/reference/ot/ruth.json"
+    },
+    {
+      "name": "1 Samuel",
+      "number": 9,
+      "chapters": 31,
+      "category": "Historical",
+      "reference_endpoint": "/api/v1/niv/reference/ot/1_samuel.json"
+    },
+    {
+      "name": "2 Samuel",
+      "number": 10,
+      "chapters": 24,
+      "category": "Historical",
+      "reference_endpoint": "/api/v1/niv/reference/ot/2_samuel.json"
+    },
+    {
+      "name": "1 Kings",
+      "number": 11,
+      "chapters": 22,
+      "category": "Historical",
+      "reference_endpoint": "/api/v1/niv/reference/ot/1_kings.json"
+    },
+    {
+      "name": "2 Kings",
+      "number": 12,
+      "chapters": 25,
+      "category": "Historical",
+      "reference_endpoint": "/api/v1/niv/reference/ot/2_kings.json"
+    },
+    {
+      "name": "1 Chronicles",
+      "number": 13,
+      "chapters": 29,
+      "category": "Historical",
+      "reference_endpoint": "/api/v1/niv/reference/ot/1_chronicles.json"
+    },
+    {
+      "name": "2 Chronicles",
+      "number": 14,
+      "chapters": 36,
+      "category": "Historical",
+      "reference_endpoint": "/api/v1/niv/reference/ot/2_chronicles.json"
+    },
+    {
+      "name": "Ezra",
+      "number": 15,
+      "chapters": 10,
+      "category": "Historical",
+      "reference_endpoint": "/api/v1/niv/reference/ot/ezra.json"
+    },
+    {
+      "name": "Nehemiah",
+      "number": 16,
+      "chapters": 13,
+      "category": "Historical",
+      "reference_endpoint": "/api/v1/niv/reference/ot/nehemiah.json"
+    },
+    {
+      "name": "Esther",
+      "number": 17,
+      "chapters": 10,
+      "category": "Historical",
+      "reference_endpoint": "/api/v1/niv/reference/ot/esther.json"
+    },
+    {
+      "name": "Job",
+      "number": 18,
+      "chapters": 42,
+      "category": "Wisdom",
+      "reference_endpoint": "/api/v1/niv/reference/ot/job.json"
+    },
+    {
+      "name": "Psalms",
+      "number": 19,
+      "chapters": 150,
+      "category": "Wisdom",
+      "reference_endpoint": "/api/v1/niv/reference/ot/psalms.json"
+    },
+    {
+      "name": "Proverbs",
+      "number": 20,
+      "chapters": 31,
+      "category": "Wisdom",
+      "reference_endpoint": "/api/v1/niv/reference/ot/proverbs.json"
+    },
+    {
+      "name": "Ecclesiastes",
+      "number": 21,
+      "chapters": 12,
+      "category": "Wisdom",
+      "reference_endpoint": "/api/v1/niv/reference/ot/ecclesiastes.json"
+    },
+    {
+      "name": "Song of Solomon",
+      "number": 22,
+      "chapters": 8,
+      "category": "Wisdom",
+      "reference_endpoint": "/api/v1/niv/reference/ot/song_of_solomon.json"
+    },
+    {
+      "name": "Isaiah",
+      "number": 23,
+      "chapters": 66,
+      "category": "Major Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/isaiah.json"
+    },
+    {
+      "name": "Jeremiah",
+      "number": 24,
+      "chapters": 52,
+      "category": "Major Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/jeremiah.json"
+    },
+    {
+      "name": "Lamentations",
+      "number": 25,
+      "chapters": 5,
+      "category": "Major Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/lamentations.json"
+    },
+    {
+      "name": "Ezekiel",
+      "number": 26,
+      "chapters": 48,
+      "category": "Major Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/ezekiel.json"
+    },
+    {
+      "name": "Daniel",
+      "number": 27,
+      "chapters": 12,
+      "category": "Major Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/daniel.json"
+    },
+    {
+      "name": "Hosea",
+      "number": 28,
+      "chapters": 14,
+      "category": "Minor Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/hosea.json"
+    },
+    {
+      "name": "Joel",
+      "number": 29,
+      "chapters": 3,
+      "category": "Minor Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/joel.json"
+    },
+    {
+      "name": "Amos",
+      "number": 30,
+      "chapters": 9,
+      "category": "Minor Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/amos.json"
+    },
+    {
+      "name": "Obadiah",
+      "number": 31,
+      "chapters": 1,
+      "category": "Minor Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/obadiah.json"
+    },
+    {
+      "name": "Jonah",
+      "number": 32,
+      "chapters": 4,
+      "category": "Minor Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/jonah.json"
+    },
+    {
+      "name": "Micah",
+      "number": 33,
+      "chapters": 7,
+      "category": "Minor Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/micah.json"
+    },
+    {
+      "name": "Nahum",
+      "number": 34,
+      "chapters": 3,
+      "category": "Minor Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/nahum.json"
+    },
+    {
+      "name": "Habakkuk",
+      "number": 35,
+      "chapters": 3,
+      "category": "Minor Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/habakkuk.json"
+    },
+    {
+      "name": "Zephaniah",
+      "number": 36,
+      "chapters": 3,
+      "category": "Minor Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/zephaniah.json"
+    },
+    {
+      "name": "Haggai",
+      "number": 37,
+      "chapters": 2,
+      "category": "Minor Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/haggai.json"
+    },
+    {
+      "name": "Zechariah",
+      "number": 38,
+      "chapters": 14,
+      "category": "Minor Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/zechariah.json"
+    },
+    {
+      "name": "Malachi",
+      "number": 39,
+      "chapters": 4,
+      "category": "Minor Prophets",
+      "reference_endpoint": "/api/v1/niv/reference/ot/malachi.json"
+    }
+  ],
+  "translation": {
+    "name": "New International Version",
+    "abbreviation": "NIV",
+    "version": "2011",
+    "copyright": "Copyright \u00a9 1973, 1978, 1984, 2011 by Biblica, Inc.\u00ae"
+  }
+}
