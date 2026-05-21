@@ -1,0 +1,686 @@
+{
+  "old_testament": [
+    {
+      "book": "Genesis",
+      "book_number": 1,
+      "chapters": 50,
+      "verses": 1533,
+      "characters": 197803,
+      "words": 38452,
+      "text_endpoint": "/api/v1/text/ot/genesis.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/01_Genesis_{chapter}.mp3"
+    },
+    {
+      "book": "Exodus",
+      "book_number": 2,
+      "chapters": 40,
+      "verses": 1213,
+      "characters": 170428,
+      "words": 32889,
+      "text_endpoint": "/api/v1/text/ot/exodus.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/02_Exodus_{chapter}.mp3"
+    },
+    {
+      "book": "Leviticus",
+      "book_number": 3,
+      "chapters": 27,
+      "verses": 859,
+      "characters": 127908,
+      "words": 24645,
+      "text_endpoint": "/api/v1/text/ot/leviticus.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/03_Leviticus_{chapter}.mp3"
+    },
+    {
+      "book": "Numbers",
+      "book_number": 4,
+      "chapters": 36,
+      "verses": 1288,
+      "characters": 176434,
+      "words": 33061,
+      "text_endpoint": "/api/v1/text/ot/numbers.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/04_Numbers_{chapter}.mp3"
+    },
+    {
+      "book": "Deuteronomy",
+      "book_number": 5,
+      "chapters": 34,
+      "verses": 959,
+      "characters": 147224,
+      "words": 28486,
+      "text_endpoint": "/api/v1/text/ot/deuteronomy.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/05_Deuteronomy_{chapter}.mp3"
+    },
+    {
+      "book": "Joshua",
+      "book_number": 6,
+      "chapters": 24,
+      "verses": 658,
+      "characters": 100624,
+      "words": 18942,
+      "text_endpoint": "/api/v1/text/ot/joshua.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/06_Joshua_{chapter}.mp3"
+    },
+    {
+      "book": "Judges",
+      "book_number": 7,
+      "chapters": 21,
+      "verses": 618,
+      "characters": 99212,
+      "words": 19063,
+      "text_endpoint": "/api/v1/text/ot/judges.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/07_Judges_{chapter}.mp3"
+    },
+    {
+      "book": "Ruth",
+      "book_number": 8,
+      "chapters": 4,
+      "verses": 85,
+      "characters": 13102,
+      "words": 2585,
+      "text_endpoint": "/api/v1/text/ot/ruth.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/08_Ruth_{chapter}.mp3"
+    },
+    {
+      "book": "1 Samuel",
+      "book_number": 9,
+      "chapters": 31,
+      "verses": 810,
+      "characters": 130134,
+      "words": 25170,
+      "text_endpoint": "/api/v1/text/ot/1_samuel.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/09_1_Samuel_{chapter}.mp3"
+    },
+    {
+      "book": "2 Samuel",
+      "book_number": 10,
+      "chapters": 24,
+      "verses": 695,
+      "characters": 107007,
+      "words": 20698,
+      "text_endpoint": "/api/v1/text/ot/2_samuel.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/10_2_Samuel_{chapter}.mp3"
+    },
+    {
+      "book": "1 Kings",
+      "book_number": 11,
+      "chapters": 22,
+      "verses": 816,
+      "characters": 127758,
+      "words": 24625,
+      "text_endpoint": "/api/v1/text/ot/1_kings.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/11_1_Kings_{chapter}.mp3"
+    },
+    {
+      "book": "2 Kings",
+      "book_number": 12,
+      "chapters": 25,
+      "verses": 719,
+      "characters": 121422,
+      "words": 23632,
+      "text_endpoint": "/api/v1/text/ot/2_kings.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/12_2_Kings_{chapter}.mp3"
+    },
+    {
+      "book": "1 Chronicles",
+      "book_number": 13,
+      "chapters": 29,
+      "verses": 942,
+      "characters": 111733,
+      "words": 20465,
+      "text_endpoint": "/api/v1/text/ot/1_chronicles.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/13_1_Chronicles_{chapter}.mp3"
+    },
+    {
+      "book": "2 Chronicles",
+      "book_number": 14,
+      "chapters": 36,
+      "verses": 822,
+      "characters": 139780,
+      "words": 26196,
+      "text_endpoint": "/api/v1/text/ot/2_chronicles.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/14_2_Chronicles_{chapter}.mp3"
+    },
+    {
+      "book": "Ezra",
+      "book_number": 15,
+      "chapters": 10,
+      "verses": 280,
+      "characters": 40591,
+      "words": 7474,
+      "text_endpoint": "/api/v1/text/ot/ezra.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/15_Ezra_{chapter}.mp3"
+    },
+    {
+      "book": "Nehemiah",
+      "book_number": 16,
+      "chapters": 13,
+      "verses": 406,
+      "characters": 57343,
+      "words": 10515,
+      "text_endpoint": "/api/v1/text/ot/nehemiah.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/16_Nehemiah_{chapter}.mp3"
+    },
+    {
+      "book": "Esther",
+      "book_number": 17,
+      "chapters": 10,
+      "verses": 167,
+      "characters": 30406,
+      "words": 5657,
+      "text_endpoint": "/api/v1/text/ot/esther.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/17_Esther_{chapter}.mp3"
+    },
+    {
+      "book": "Job",
+      "book_number": 18,
+      "chapters": 42,
+      "verses": 1070,
+      "characters": 94693,
+      "words": 18107,
+      "text_endpoint": "/api/v1/text/ot/job.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/18_Job_{chapter}.mp3"
+    },
+    {
+      "book": "Psalms",
+      "book_number": 19,
+      "chapters": 150,
+      "verses": 2461,
+      "characters": 224708,
+      "words": 42682,
+      "text_endpoint": "/api/v1/text/ot/psalms.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/19_Psalms_{chapter}.mp3"
+    },
+    {
+      "book": "Proverbs",
+      "book_number": 20,
+      "chapters": 31,
+      "verses": 915,
+      "characters": 80731,
+      "words": 15065,
+      "text_endpoint": "/api/v1/text/ot/proverbs.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/20_Proverbs_{chapter}.mp3"
+    },
+    {
+      "book": "Ecclesiastes",
+      "book_number": 21,
+      "chapters": 12,
+      "verses": 222,
+      "characters": 28741,
+      "words": 5612,
+      "text_endpoint": "/api/v1/text/ot/ecclesiastes.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/21_Ecclesiastes_{chapter}.mp3"
+    },
+    {
+      "book": "Song of Solomon",
+      "book_number": 22,
+      "chapters": 8,
+      "verses": 0,
+      "characters": 0,
+      "words": 0,
+      "text_endpoint": "/api/v1/text/ot/song_of_solomon.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/22_Song_of_Solomon_{chapter}.mp3"
+    },
+    {
+      "book": "Isaiah",
+      "book_number": 23,
+      "chapters": 66,
+      "verses": 1292,
+      "characters": 195356,
+      "words": 37201,
+      "text_endpoint": "/api/v1/text/ot/isaiah.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/23_Isaiah_{chapter}.mp3"
+    },
+    {
+      "book": "Jeremiah",
+      "book_number": 24,
+      "chapters": 52,
+      "verses": 1364,
+      "characters": 224727,
+      "words": 42823,
+      "text_endpoint": "/api/v1/text/ot/jeremiah.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/24_Jeremiah_{chapter}.mp3"
+    },
+    {
+      "book": "Lamentations",
+      "book_number": 25,
+      "chapters": 5,
+      "verses": 154,
+      "characters": 18190,
+      "words": 3421,
+      "text_endpoint": "/api/v1/text/ot/lamentations.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/25_Lamentations_{chapter}.mp3"
+    },
+    {
+      "book": "Ezekiel",
+      "book_number": 26,
+      "chapters": 48,
+      "verses": 1273,
+      "characters": 206684,
+      "words": 39544,
+      "text_endpoint": "/api/v1/text/ot/ezekiel.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/26_Ezekiel_{chapter}.mp3"
+    },
+    {
+      "book": "Daniel",
+      "book_number": 27,
+      "chapters": 12,
+      "verses": 357,
+      "characters": 62209,
+      "words": 11641,
+      "text_endpoint": "/api/v1/text/ot/daniel.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/27_Daniel_{chapter}.mp3"
+    },
+    {
+      "book": "Hosea",
+      "book_number": 28,
+      "chapters": 14,
+      "verses": 197,
+      "characters": 27316,
+      "words": 5193,
+      "text_endpoint": "/api/v1/text/ot/hosea.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/28_Hosea_{chapter}.mp3"
+    },
+    {
+      "book": "Joel",
+      "book_number": 29,
+      "chapters": 3,
+      "verses": 73,
+      "characters": 10741,
+      "words": 2042,
+      "text_endpoint": "/api/v1/text/ot/joel.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/29_Joel_{chapter}.mp3"
+    },
+    {
+      "book": "Amos",
+      "book_number": 30,
+      "chapters": 9,
+      "verses": 146,
+      "characters": 21947,
+      "words": 4237,
+      "text_endpoint": "/api/v1/text/ot/amos.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/30_Amos_{chapter}.mp3"
+    },
+    {
+      "book": "Obadiah",
+      "book_number": 31,
+      "chapters": 1,
+      "verses": 21,
+      "characters": 3611,
+      "words": 672,
+      "text_endpoint": "/api/v1/text/ot/obadiah.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/31_Obadiah_{chapter}.mp3"
+    },
+    {
+      "book": "Jonah",
+      "book_number": 32,
+      "chapters": 4,
+      "verses": 48,
+      "characters": 6653,
+      "words": 1327,
+      "text_endpoint": "/api/v1/text/ot/jonah.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/32_Jonah_{chapter}.mp3"
+    },
+    {
+      "book": "Micah",
+      "book_number": 33,
+      "chapters": 7,
+      "verses": 105,
+      "characters": 16441,
+      "words": 3171,
+      "text_endpoint": "/api/v1/text/ot/micah.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/33_Micah_{chapter}.mp3"
+    },
+    {
+      "book": "Nahum",
+      "book_number": 34,
+      "chapters": 3,
+      "verses": 47,
+      "characters": 6965,
+      "words": 1284,
+      "text_endpoint": "/api/v1/text/ot/nahum.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/34_Nahum_{chapter}.mp3"
+    },
+    {
+      "book": "Habakkuk",
+      "book_number": 35,
+      "chapters": 3,
+      "verses": 56,
+      "characters": 8004,
+      "words": 1483,
+      "text_endpoint": "/api/v1/text/ot/habakkuk.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/35_Habakkuk_{chapter}.mp3"
+    },
+    {
+      "book": "Zephaniah",
+      "book_number": 36,
+      "chapters": 3,
+      "verses": 53,
+      "characters": 8555,
+      "words": 1621,
+      "text_endpoint": "/api/v1/text/ot/zephaniah.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/36_Zephaniah_{chapter}.mp3"
+    },
+    {
+      "book": "Haggai",
+      "book_number": 37,
+      "chapters": 2,
+      "verses": 38,
+      "characters": 5783,
+      "words": 1134,
+      "text_endpoint": "/api/v1/text/ot/haggai.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/37_Haggai_{chapter}.mp3"
+    },
+    {
+      "book": "Zechariah",
+      "book_number": 38,
+      "chapters": 14,
+      "verses": 211,
+      "characters": 33148,
+      "words": 6471,
+      "text_endpoint": "/api/v1/text/ot/zechariah.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/38_Zechariah_{chapter}.mp3"
+    },
+    {
+      "book": "Malachi",
+      "book_number": 39,
+      "chapters": 4,
+      "verses": 55,
+      "characters": 9270,
+      "words": 1793,
+      "text_endpoint": "/api/v1/text/ot/malachi.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/ot/39_Malachi_{chapter}.mp3"
+    }
+  ],
+  "new_testament": [
+    {
+      "book": "Matthew",
+      "book_number": 40,
+      "chapters": 28,
+      "verses": 1071,
+      "characters": 124377,
+      "words": 23813,
+      "text_endpoint": "/api/v1/text/nt/matthew.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/01_Matthew_{chapter}.mp3"
+    },
+    {
+      "book": "Mark",
+      "book_number": 41,
+      "chapters": 16,
+      "verses": 678,
+      "characters": 79018,
+      "words": 15223,
+      "text_endpoint": "/api/v1/text/nt/mark.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/02_Mark_{chapter}.mp3"
+    },
+    {
+      "book": "Luke",
+      "book_number": 42,
+      "chapters": 24,
+      "verses": 1151,
+      "characters": 134647,
+      "words": 26051,
+      "text_endpoint": "/api/v1/text/nt/luke.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/03_Luke_{chapter}.mp3"
+    },
+    {
+      "book": "John",
+      "book_number": 43,
+      "chapters": 21,
+      "verses": 879,
+      "characters": 97786,
+      "words": 19164,
+      "text_endpoint": "/api/v1/text/nt/john.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/04_John_{chapter}.mp3"
+    },
+    {
+      "book": "Acts",
+      "book_number": 44,
+      "chapters": 28,
+      "verses": 1007,
+      "characters": 129758,
+      "words": 24307,
+      "text_endpoint": "/api/v1/text/nt/acts.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/05_Acts_{chapter}.mp3"
+    },
+    {
+      "book": "Romans",
+      "book_number": 45,
+      "chapters": 16,
+      "verses": 433,
+      "characters": 50215,
+      "words": 9422,
+      "text_endpoint": "/api/v1/text/nt/romans.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/06_Romans_{chapter}.mp3"
+    },
+    {
+      "book": "1 Corinthians",
+      "book_number": 46,
+      "chapters": 16,
+      "verses": 437,
+      "characters": 48994,
+      "words": 9462,
+      "text_endpoint": "/api/v1/text/nt/1_corinthians.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/07_1_Corinthians_{chapter}.mp3"
+    },
+    {
+      "book": "2 Corinthians",
+      "book_number": 47,
+      "chapters": 13,
+      "verses": 257,
+      "characters": 32160,
+      "words": 6065,
+      "text_endpoint": "/api/v1/text/nt/2_corinthians.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/08_2_Corinthians_{chapter}.mp3"
+    },
+    {
+      "book": "Galatians",
+      "book_number": 48,
+      "chapters": 6,
+      "verses": 149,
+      "characters": 16200,
+      "words": 3084,
+      "text_endpoint": "/api/v1/text/nt/galatians.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/09_Galatians_{chapter}.mp3"
+    },
+    {
+      "book": "Ephesians",
+      "book_number": 49,
+      "chapters": 6,
+      "verses": 155,
+      "characters": 16229,
+      "words": 3022,
+      "text_endpoint": "/api/v1/text/nt/ephesians.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/10_Ephesians_{chapter}.mp3"
+    },
+    {
+      "book": "Philippians",
+      "book_number": 50,
+      "chapters": 4,
+      "verses": 104,
+      "characters": 11560,
+      "words": 2183,
+      "text_endpoint": "/api/v1/text/nt/philippians.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/11_Philippians_{chapter}.mp3"
+    },
+    {
+      "book": "Colossians",
+      "book_number": 51,
+      "chapters": 4,
+      "verses": 95,
+      "characters": 10721,
+      "words": 1979,
+      "text_endpoint": "/api/v1/text/nt/colossians.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/12_Colossians_{chapter}.mp3"
+    },
+    {
+      "book": "1 Thessalonians",
+      "book_number": 52,
+      "chapters": 5,
+      "verses": 89,
+      "characters": 9646,
+      "words": 1837,
+      "text_endpoint": "/api/v1/text/nt/1_thessalonians.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/13_1_Thessalonians_{chapter}.mp3"
+    },
+    {
+      "book": "2 Thessalonians",
+      "book_number": 53,
+      "chapters": 3,
+      "verses": 47,
+      "characters": 5429,
+      "words": 1022,
+      "text_endpoint": "/api/v1/text/nt/2_thessalonians.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/14_2_Thessalonians_{chapter}.mp3"
+    },
+    {
+      "book": "1 Timothy",
+      "book_number": 54,
+      "chapters": 6,
+      "verses": 113,
+      "characters": 12675,
+      "words": 2244,
+      "text_endpoint": "/api/v1/text/nt/1_timothy.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/15_1_Timothy_{chapter}.mp3"
+    },
+    {
+      "book": "2 Timothy",
+      "book_number": 55,
+      "chapters": 4,
+      "verses": 83,
+      "characters": 9183,
+      "words": 1666,
+      "text_endpoint": "/api/v1/text/nt/2_timothy.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/16_2_Timothy_{chapter}.mp3"
+    },
+    {
+      "book": "Titus",
+      "book_number": 56,
+      "chapters": 3,
+      "verses": 46,
+      "characters": 5121,
+      "words": 896,
+      "text_endpoint": "/api/v1/text/nt/titus.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/17_Titus_{chapter}.mp3"
+    },
+    {
+      "book": "Philemon",
+      "book_number": 57,
+      "chapters": 1,
+      "verses": 25,
+      "characters": 2309,
+      "words": 430,
+      "text_endpoint": "/api/v1/text/nt/philemon.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/18_Philemon_{chapter}.mp3"
+    },
+    {
+      "book": "Hebrews",
+      "book_number": 58,
+      "chapters": 13,
+      "verses": 303,
+      "characters": 37229,
+      "words": 6897,
+      "text_endpoint": "/api/v1/text/nt/hebrews.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/19_Hebrews_{chapter}.mp3"
+    },
+    {
+      "book": "James",
+      "book_number": 59,
+      "chapters": 5,
+      "verses": 108,
+      "characters": 12123,
+      "words": 2304,
+      "text_endpoint": "/api/v1/text/nt/james.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/20_James_{chapter}.mp3"
+    },
+    {
+      "book": "1 Peter",
+      "book_number": 60,
+      "chapters": 5,
+      "verses": 105,
+      "characters": 13502,
+      "words": 2476,
+      "text_endpoint": "/api/v1/text/nt/1_peter.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/21_1_Peter_{chapter}.mp3"
+    },
+    {
+      "book": "2 Peter",
+      "book_number": 61,
+      "chapters": 3,
+      "verses": 61,
+      "characters": 8711,
+      "words": 1553,
+      "text_endpoint": "/api/v1/text/nt/2_peter.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/22_2_Peter_{chapter}.mp3"
+    },
+    {
+      "book": "1 John",
+      "book_number": 62,
+      "chapters": 5,
+      "verses": 105,
+      "characters": 12711,
+      "words": 2517,
+      "text_endpoint": "/api/v1/text/nt/1_john.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/23_1_John_{chapter}.mp3"
+    },
+    {
+      "book": "2 John",
+      "book_number": 63,
+      "chapters": 1,
+      "verses": 13,
+      "characters": 1546,
+      "words": 298,
+      "text_endpoint": "/api/v1/text/nt/2_john.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/24_2_John_{chapter}.mp3"
+    },
+    {
+      "book": "3 John",
+      "book_number": 64,
+      "chapters": 1,
+      "verses": 14,
+      "characters": 1589,
+      "words": 294,
+      "text_endpoint": "/api/v1/text/nt/3_john.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/25_3_John_{chapter}.mp3"
+    },
+    {
+      "book": "Jude",
+      "book_number": 65,
+      "chapters": 1,
+      "verses": 25,
+      "characters": 3516,
+      "words": 608,
+      "text_endpoint": "/api/v1/text/nt/jude.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/26_Jude_{chapter}.mp3"
+    },
+    {
+      "book": "Revelation",
+      "book_number": 66,
+      "chapters": 22,
+      "verses": 404,
+      "characters": 62044,
+      "words": 11995,
+      "text_endpoint": "/api/v1/text/nt/revelation.json",
+      "audio_url_pattern": "https://kjv-bible-audio-cdn.netlify.app/nt/27_Revelation_{chapter}.mp3"
+    }
+  ],
+  "summary": {
+    "total_books": 66,
+    "old_testament": {
+      "books": 39,
+      "verses": 23028,
+      "characters": 3193382,
+      "words": 609079
+    },
+    "new_testament": {
+      "books": 27,
+      "verses": 7957,
+      "characters": 948999,
+      "words": 180812
+    },
+    "total": {
+      "verses": 30985,
+      "characters": 4142381,
+      "words": 789891
+    }
+  }
+}
